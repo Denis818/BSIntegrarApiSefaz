@@ -13,7 +13,7 @@ namespace BSIntegrarApiSefaz.Controllers
             _sintegraClient = sintegraClient;
         }
 
-        [HttpGet("PessoaJuridica/cnpj")]
+        [HttpGet("PessoaJuridica/Cnpj")]
         public async Task<IActionResult> PessoaJuridica(string cnpj)
         {
             var pessoaJuridica = await _sintegraClient.GetPessoaJuridicaAsync(cnpj);
