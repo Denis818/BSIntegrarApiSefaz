@@ -1,0 +1,15 @@
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\bin\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.deps.json
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\bin\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.dll
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\bin\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.pdb
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\bin\Debug\net5.0\BSIntegrarApiSefaz.Domain.dll
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\bin\Debug\net5.0\BSIntegrarApiSefaz.Domain.pdb
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.csproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.AssemblyInfoInputs.cache
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.AssemblyInfo.cs
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.csproj.CoreCompileInputs.cache
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.csproj.CopyComplete
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.dll
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\refint\BSIntegrarApiSefaz.ClienteWeb.dll
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\BSIntegrarApiSefaz.ClienteWeb.pdb
+C:\Users\denis\OneDrive\04 Work Space\ApiIntegraSefaz\BSIntegrarApiSefaz\BSIntegrarApiSefaz.ClienteWeb\obj\Debug\net5.0\ref\BSIntegrarApiSefaz.ClienteWeb.dll
