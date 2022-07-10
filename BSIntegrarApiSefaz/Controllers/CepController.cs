@@ -13,7 +13,7 @@ namespace BSIntegrarApiSefaz.Controllers
             _viaCep = viaCep;
         }
 
-        [HttpGet("GetCep/cep")]
+        [HttpGet("GetCep/Cep")]
         public async Task<IActionResult> GetCep(string cep)
         {
             var resultCep = await _viaCep.GetCep(cep);
