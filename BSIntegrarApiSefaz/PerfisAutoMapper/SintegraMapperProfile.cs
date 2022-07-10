@@ -9,6 +9,7 @@ namespace BSIntegrarApiSefaz.PerfisAutoMapper
         public SintegraMapperProfile()
         {
             //criando um perfil de autoMapper.
+            //alguns faltam implementar
             CreateMap<PessoaJuridicaResponseDTO, PessoaJuridica>()
                 .ForMember(destino => destino.Cnpj, option => option.MapFrom(font => font.cnpj))
                 .ForMember(destino => destino.InscricaoEstadual, option => option.MapFrom(font => font.inscricao_estadual))
